@@ -46,7 +46,7 @@ A professional financial billing solution developed for **KK Collection** to man
 
 | Add New Invoice | List of Proformas |
 |---|---|
-| ![Add Invoice](images/add_invoice.png) | ![List Proforma](images/list-Proforma-Invoices.png) |
+| ![Add Invoice](images/add-invoice.png) | ![List Proforma](images/list-Proforma-Invoices.png) |
 
 ### **Administration & Settings**
 | Admin Dashboard | Agent Management |
